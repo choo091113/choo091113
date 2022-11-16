@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/#003545?style=flat-square&MariaDB&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#003545?style=flat-square&MariaDB&nbsp 
 <!--
 **choo091113/choo091113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
