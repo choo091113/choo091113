@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 이건 내 깃허브입니다
+### 여긴 내 깃허브입니다
 ### 아무도 들어오지 마세요
 <!--
 **choo091113/choo091113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
