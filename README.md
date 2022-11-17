@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 ### Hi there 👋
-### 여긴 내 깃허브입니다
-### 아무도 들어오지 마세요
+### Hi there
 <!--
 **choo091113/choo091113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
