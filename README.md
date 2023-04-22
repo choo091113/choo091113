@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=while+true🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+
 ### Hi there 👋
 ### Hi there
 <!--
