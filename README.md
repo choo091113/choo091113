@@ -1,7 +1,4 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=while+true🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choo091113&show_icons=true&theme=radical)
 
 ### Hi there 👋
